@@ -1,0 +1,12 @@
+This is a project that creates image montages based on random words.
+
+usage:
+  $ python import_word.py
+  (creates the words database)
+  $ python bigpicture.py
+
+Requires Imagemagick to be installed.
+
+Example images are in the examples directory.
+
+
