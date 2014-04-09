@@ -1,6 +1,7 @@
 This is a project that creates image montages based on random words.
 
-usage:
+Usage:
+  (first replace the dummy text with an Azure key and your directory structure, then...)
   $ python import_word.py
   (creates the words database)
   $ python bigpicture.py
